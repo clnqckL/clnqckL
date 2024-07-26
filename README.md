@@ -1,7 +1,4 @@
 
-
-### Hello, I'm going to clnqckL 😏
-
 <h2 align="left">Hello, I'm going to clnqckL 😏</h2>
 
 ###
@@ -19,11 +16,6 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/clnqckL/clnqckL/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -45,7 +37,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media1.tenor.com/m/ovWTVvG3VBwAAAAC/mr-fresh-mr-fresh-multiverse.gif"  />
+<img align="left" height="150" width="150" src="https://media1.tenor.com/m/ovWTVvG3VBwAAAAC/mr-fresh-mr-fresh-multiverse.gif"  />
 
 ###
 
